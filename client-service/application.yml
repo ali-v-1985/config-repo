@@ -8,3 +8,5 @@ spring:
       uri: http://localhost:8888  # URL to Config Server
 example:
   message: "Hello from Git!"
+feature:
+  newFeatureEnabled: true
