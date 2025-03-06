@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: client-service
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://localhost:8888  # URL to Config Server
+example:
+  message: "Hello from Git!"
