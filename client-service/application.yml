@@ -9,3 +9,4 @@ spring:
 example:
   message: "Hello from Git!"
 feature:
+  newFeatureEnabled: false
